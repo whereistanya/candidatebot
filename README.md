@@ -17,13 +17,14 @@ https://en.wikipedia.org/wiki/Template:Infobox_officeholder
 
 If you are running on a mac, make sure you have xcode command-line tools installed. You can install them using the command 'xcode-select --install'
 
-A couple of python modules:
+A few python modules:
 
 ```
 pip install pyyaml
 pip install requests
 pip install lxml
 pip install beautifulsoup4
+pip install us
 ```
 
 and for testing, you need `python-pytest`. (http://doc.pytest.org)
